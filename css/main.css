@@ -65,6 +65,10 @@ img {
   font-size: .75rem;
 }
 
+.div {
+  width: 100%;
+}
+
 .side {
   list-style-type: none;
   width: 33%;
